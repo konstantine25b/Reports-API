@@ -11,7 +11,7 @@ This Django application provides an API for managing reports, users, and their r
 
 2. Navigate to the project directory:
    ```bash
-   cd your_repository
+   cd Reports-API
    ```
 
 3. Install dependencies (it's recommended to do this in a virtual environment):
